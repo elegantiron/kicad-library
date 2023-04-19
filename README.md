@@ -15,6 +15,8 @@ Here's a list of symbols and footprints that are available in the library. Items
 ## Symbols
 * Espressif
   * *ESP32-C3-WROOM-02*
+* onsemi
+  * NCP114
 * Rohm
   * RUC002N05
 
