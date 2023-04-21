@@ -19,6 +19,8 @@ Here's a list of symbols and footprints that are available in the library. Items
   * NCP114
 * Rohm
   * RUC002N05
+* WDC
+  * W65C02S
 
 ## Footprints
 * Espressif
