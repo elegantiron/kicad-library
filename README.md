@@ -23,3 +23,5 @@ Here's a list of symbols and footprints that are available in the library. Items
 ## Footprints
 * Espressif
   * ESP32-C3-WROOM-02
+* TE Connectivity
+  * 20834095-1
