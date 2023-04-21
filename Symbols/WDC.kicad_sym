@@ -113,10 +113,6 @@
         (name "D0" (effects (font (size 1.27 1.27))))
         (number "33" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 29.21 -15.24 180) (length 2.54)
-        (name "~{RW}" (effects (font (size 1.27 1.27))))
-        (number "34" (effects (font (size 1.27 1.27))))
-      )
       (pin no_connect line (at 29.21 -12.7 180) (length 2.54)
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "35" (effects (font (size 1.27 1.27))))
@@ -164,6 +160,12 @@
       (pin output line (at 0 -20.32 0) (length 2.54)
         (name "A0" (effects (font (size 1.27 1.27))))
         (number "9" (effects (font (size 1.27 1.27))))
+      )
+    )
+    (symbol "W65C02S_1_0"
+      (pin output line (at 29.21 -15.24 180) (length 2.54)
+        (name "R/~{W}" (effects (font (size 1.27 1.27))))
+        (number "34" (effects (font (size 1.27 1.27))))
       )
     )
     (symbol "W65C02S_1_1"
