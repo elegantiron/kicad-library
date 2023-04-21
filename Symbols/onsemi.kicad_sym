@@ -15,6 +15,9 @@
     (property "digikeypn" "NCP114BSN330T1GOSCT-ND" (at -5.08 -5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "ki_description" "300mA LDO Linear Regulator" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "NCP114_0_0"
       (pin power_in line (at -2.54 8.89 0) (length 2.54)
         (name "IN" (effects (font (size 1.27 1.27))))

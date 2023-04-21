@@ -12,7 +12,10 @@
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf" (at 33.02 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey PN" "1965-ESP32-C3-WROOM-02-N4CT-ND" (at 0 0 0)
+    (property "digikeypn" "1965-ESP32-C3-WROOM-02-N4CT-ND" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "ESP32-C3-WROOM-02 dev module; PCB antenna; SMD" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "ESP32-C3-WROOM-02_0_0"
