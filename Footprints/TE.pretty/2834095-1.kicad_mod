@@ -13,6 +13,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 308e1dcb-1986-4747-acc5-5cf6c4e947cc)
   )
+  (fp_rect (start 0 -11.684) (end 12.7 0)
+    (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS") (tstamp afe47e17-4344-462d-b881-927291ebfd76))
   (fp_line (start 0 -11.6) (end 12.6 -11.6)
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 696189a0-19c5-43bd-8c39-f808a2253e66))
   (fp_line (start 0 0) (end 0 -11.6)
