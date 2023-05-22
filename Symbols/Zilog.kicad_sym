@@ -153,10 +153,6 @@
         (name "D0" (effects (font (size 1.27 1.27))))
         (number "40" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at -12.7 -26.67 0) (length 2.54)
-        (name "~{INT}" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
-      )
       (pin input line (at -12.7 -29.21 0) (length 2.54)
         (name "IEI" (effects (font (size 1.27 1.27))))
         (number "6" (effects (font (size 1.27 1.27))))
@@ -172,6 +168,12 @@
       (pin power_in line (at 1.27 29.21 270) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
         (number "9" (effects (font (size 1.27 1.27))))
+      )
+    )
+    (symbol "Z8440_1_0"
+      (pin open_collector line (at -12.7 -26.67 0) (length 2.54)
+        (name "~{INT}" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
       )
     )
     (symbol "Z8440_1_1"
